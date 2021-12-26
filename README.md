@@ -1,10 +1,10 @@
 ### < Hi there 👋 />
 
 ```js
-import SoftwareDeveloper from 'YaelBusso';
+import SoftwareDeveloper from 'YaelShrem';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Yael Busso';
+  name     = 'Yael Shrem';
   title    = 'Software Engineer';
   company  = 'Amdocs';
   location = 'IL';
@@ -18,4 +18,4 @@ class Skills extends SoftwareDeveloper {
 ```
 
 
-⭐️ From [YaelBusso](https://github.com/YaelBusso)
+⭐️ From [YaelBusso](https://github.com/YaelShrem)
