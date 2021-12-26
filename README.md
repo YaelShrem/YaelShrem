@@ -18,4 +18,4 @@ class Skills extends SoftwareDeveloper {
 ```
 
 
-⭐️ From [YaelBusso](https://github.com/YaelShrem)
+⭐️ From [YaelShrem](https://github.com/YaelShrem)
